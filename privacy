@@ -1,0 +1,64 @@
+AutoCord - Privacy Policy
+Effective Date: [Insert Date]
+
+AutoCord ("the Bot") respects your privacy. This Privacy Policy explains what data the Bot collects, how it is used, and your rights regarding that data.
+
+By using the Bot, you agree to the practices described in this policy.
+
+1. 📥 What Data We Collect
+AutoCord only collects minimal data necessary to operate its features. This may include:
+
+User ID (for identifying who interacted with the bot)
+
+Server ID (to identify which server the bot is operating in)
+
+Channel ID (for message delivery)
+
+Message content (only messages sent to or through the bot)
+
+2. 🛠️ How We Use Your Data
+The data collected is used only for core functionality, including:
+
+Responding to direct messages
+
+Executing server-based commands (e.g. !say)
+
+Tracking triggers for automated responses (if configured)
+
+3. 🗑️ Data Retention
+We do not store message content long-term.
+
+Any data stored temporarily (for command processing or logs) is cleared regularly.
+
+No data is used for analytics, marketing, or sold to third parties.
+
+4. 🤝 Data Sharing
+We do not share your data with any third parties.
+
+Your data stays between you, your server, and AutoCord. If external storage is ever used (e.g. for uptime logs), it will follow standard security practices.
+
+5. 🧑‍⚖️ Your Rights
+As a user, you have the right to:
+
+Request deletion of your data from our systems
+
+Ask what data we may have (if any)
+
+Stop using the bot at any time by removing it from your server or stopping interaction
+
+To request data removal, contact:
+[Your Email or Discord Contact]
+
+6. 🛡️ Security
+We follow best practices to protect user data, including:
+
+Token security (bot tokens are kept secret)
+
+Limited admin access
+
+Safe handling of message content
+
+However, no system is 100% secure, and use is at your own risk.
+
+7. 🚫 Changes to This Policy
+We may update this Privacy Policy at any time. Changes will be posted with an updated "Effective Date." Continued use of AutoCord implies acceptance of any changes.
